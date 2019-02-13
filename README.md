@@ -14,7 +14,7 @@ Run maven install to generate the .jar file in the same level of `pom.xml` file:
 
     mvn clean install
 
-Inside the folder `targets` will be generated the file 
+Inside the folder `target` will be generated the file 
 
     sportdec-app-1.0.0-jar-with-dependencies.jar
 
