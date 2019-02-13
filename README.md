@@ -10,11 +10,11 @@ The coding challenge to create a commandline API mashup of the Github and Twitte
  - [Java 8](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html) 
 
 ### How to build
-Run maven install to generate the .jar file:
+Run maven install to generate the .jar file in the same level of `pom.xml` file:
 
     mvn clean install
 
-It will generate the file 
+Inside the folder `targets` will be generated the file 
 
     sportdec-app-1.0.0-jar-with-dependencies.jar
 
