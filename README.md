@@ -57,6 +57,6 @@ After execue the application, using the followed command, e.g.:
     java -jar .\sportdec-app-1.0.0-jar-with-dependencies.jar -w futball
 
 You will see a list of projects as followed:
-![enter image description here](https://imgur.com/cnFg2WK)
+![enter image description here](https://www.photobox.co.uk/my/photo/full?photo_id=501661793096)
 
 You may select the projects you want to look for the tweets by typing the id of the projects. If you want to list more than one project, you may separate the ids by space.
