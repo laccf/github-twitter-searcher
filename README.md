@@ -52,7 +52,7 @@ Where:
 You don't need to inform `-o` or `-s` but if you inform you must inform the argument to the command.
 
 ### How to use
-After execue the application, using the followed command, e.g.:
+After execute the application, using the followed command, e.g.:
 
     java -jar .\sportdec-app-1.0.0-jar-with-dependencies.jar -w futball
 
