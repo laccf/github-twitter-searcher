@@ -1,4 +1,3 @@
-# Sportdec backend coding challenge
 
 ## Introduction
 The coding challenge to create a commandline API mashup of the Github and Twitter APIs.
